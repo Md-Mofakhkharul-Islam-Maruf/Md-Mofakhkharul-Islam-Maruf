@@ -37,11 +37,7 @@ I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **r
 
 ### 1. **My Cars Page**  
 > A private-route page for managing cars with CRUD features, booking stats, and real-time UI updates.  
-🔗 [Live Demo / Client site Link / Server site Link](#)
-<p align="center"> 
-  <a href="https://x.com/MdNurIslam55434" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" height="30" width="30" /></a>  
-  <a href="https://www.linkedin.com/in/md-nur-islam-360b372a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>  
-  <a href="https://www.facebook.com/nur.islam.568309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>  
+🔗 [<a src="https://mdnurislam.netlify.app/">Live link</a> / Client site Link / Server site Link](#)
 
 </p>
 
