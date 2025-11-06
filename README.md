@@ -37,7 +37,7 @@ I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **r
 
 ### 1. **My Cars Page**  
 > A private-route page for managing cars with CRUD features, booking stats, and real-time UI updates.  
-🔗 [Live Demo / Repo Link](#)
+🔗 [Live Demo / Client site Link / Server site Link](#)
 
 ### 2. **AppStore Clone**  
 > Dynamic app store built with React and JSON data. Includes categories, trending apps slider, and review system.  
