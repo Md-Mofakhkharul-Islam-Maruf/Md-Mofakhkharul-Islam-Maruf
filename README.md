@@ -40,24 +40,6 @@ I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **r
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Mofakhkharul-Islam-Maruf&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
-       alt="Md-Mofakhkharul-Islam-Maruf's GitHub Stats" />
-</p>
-
----
-
-### Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mofakhkharul-Islam-Maruf&layout=compact&theme=dark&hide_border=true&langs_count=5&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
-       alt="Top Languages" />
-</p>
-
-
----
 ## 💼 **Projects & Portfolio**
 
 ### 1. MediMart 
@@ -83,14 +65,36 @@ Experience smooth performance with real-time updates and a sleek, responsive des
 
 ---
 
-## 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mofakhkharul-islam-maruf)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mofakhkharulislammaruf@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/md.mofakhkharul.islam.maruf)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Mofakhkharul-Islam-Maruf&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
+       alt="Md-Mofakhkharul-Islam-Maruf's GitHub Stats" />
+</p>
 
 ---
+### Most Used Languages
 
-## 📊 **GitHub Stats**
-![Md-Mofakhkharul-Islam-Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Mofakhkharul-Islam-Maruf&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mofakhkharul-Islam-Maruf&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mofakhkharul-Islam-Maruf&layout=compact&theme=dark&hide_border=true&langs_count=5&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
+       alt="Top Languages" />
+</p>
 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:mofakhkharulislammaruf@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/mofakhkharul-islam-maruf" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+  <a href="https://github.com/Md-Mofakhkharul-Islam-Maruf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mofakhkharul-islam-maruf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
