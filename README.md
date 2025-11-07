@@ -35,8 +35,7 @@ I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **r
 ## 💼 **Projects & Portfolio**
 
 ### 1. MediMart 
-> Multi-vendor medicine selling e-commerce platform using MERN stack. Features roles (user, seller, admin), invoice generation, and dashboard analytics.  
-🔗 [Live Link](https://medimart-a0a31.web.app) /[ Client side Link](https://github.com/Md-Mofakhkharul-Islam-Maruf/MediMart_Client_c)/ [Server side Link](https://github.com/Md-Mofakhkharul-Islam-Maruf/MediMart-server-s)
+> Multi-vendor medicine selling e-commerce platform using MERN stack. Features roles (user, seller, admin), invoice generation, and dashboard analytics. 🔗 [Live Link](https://medimart-a0a31.web.app) /[ Client side Link](https://github.com/Md-Mofakhkharul-Islam-Maruf/MediMart_Client_c)/ [Server side Link](https://github.com/Md-Mofakhkharul-Islam-Maruf/MediMart-server-s)
 
 ### 2. CarZone
 > A modern platform to rent, manage, and explore cars effortlessly.   
