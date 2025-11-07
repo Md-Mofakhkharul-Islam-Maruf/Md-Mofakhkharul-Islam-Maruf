@@ -43,11 +43,17 @@ I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **r
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinmonir411&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinmonir411&theme=react&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmonir411&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Mofakhkharul-Islam-Maruf&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
+       alt="Md-Mofakhkharul-Islam-Maruf's GitHub Stats" />
+</p>
+
+---
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mofakhkharul-Islam-Maruf&layout=compact&theme=dark&hide_border=true&langs_count=5&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
+       alt="Top Languages" />
 </p>
 
 
