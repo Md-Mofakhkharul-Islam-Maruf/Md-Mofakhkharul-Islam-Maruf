@@ -73,7 +73,7 @@ Experience smooth performance with real-time updates and a sleek, responsive des
 </p>
 
 ---
-### Most Used Languages
+## 🔥 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mofakhkharul-Islam-Maruf&layout=compact&theme=dark&hide_border=true&langs_count=5&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=1F2228"
