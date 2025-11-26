@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Md Mofakhkharul Islam Maruf 
 
-**MERN Stack Developer | Front-end & Back-end Enthusiast |**
+**MERN Stack Developer | Front-end & Back-end Enthusiast |** 
 
 I’m a passionate developer from **Dhaka, Bangladesh**, skilled in building **responsive, scalable, and modern web applications** using **MERN stack** and modern front-end tools. I love learning new technologies and continuously improving my skills.  
 
