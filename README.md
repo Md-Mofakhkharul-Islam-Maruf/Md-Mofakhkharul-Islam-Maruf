@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Md-Mofakhkharul-Islam-Maruf&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Md-Mofakhkharul-Islam-Maruf?style=social)
 
-# 👋 Hi, I’m Md Mofakhkharul Islam Maruf 
+# 👋 Hi, I’m Md Mofakhkharul Islam Maruf  
 
 **MERN Stack Developer | Front-end & Back-end Enthusiast |**  
 
